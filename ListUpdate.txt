@@ -1,22 +1,21 @@
 versions/1.7.10/1.7.10.jar
 versions/1.7.10/1.7.10.json
-versions/Forge OptiFine 1.7.10/addons/mods/OptiFine_1.7.10_HD_U_E7.jar
-versions/Forge OptiFine 1.7.10/natives/OpenAL32.dll
-versions/Forge OptiFine 1.7.10/natives/OpenAL64.dll
-versions/Forge OptiFine 1.7.10/natives/avutil-ttv-51.dll
-versions/Forge OptiFine 1.7.10/natives/jinput-dx8.dll
-versions/Forge OptiFine 1.7.10/natives/jinput-dx8_64.dll
-versions/Forge OptiFine 1.7.10/natives/jinput-raw.dll
-versions/Forge OptiFine 1.7.10/natives/jinput-raw_64.dll
-versions/Forge OptiFine 1.7.10/natives/jinput-wintab.dll
-versions/Forge OptiFine 1.7.10/natives/libmfxsw64.dll
-versions/Forge OptiFine 1.7.10/natives/libmp3lame-ttv.dll
-versions/Forge OptiFine 1.7.10/natives/lwjgl.dll
-versions/Forge OptiFine 1.7.10/natives/lwjgl64.dll
-versions/Forge OptiFine 1.7.10/natives/swresample-ttv-0.dll
-versions/Forge OptiFine 1.7.10/natives/twitchsdk.dll
-versions/Forge OptiFine 1.7.10/Forge OptiFine 1.7.10.jar
-versions/Forge OptiFine 1.7.10/Forge OptiFine 1.7.10.json
+versions/Minecraf Forge 1.7.10/natives/OpenAL32.dll
+versions/Minecraf Forge 1.7.10/natives/OpenAL64.dll
+versions/Minecraf Forge 1.7.10/natives/avutil-ttv-51.dll
+versions/Minecraf Forge 1.7.10/natives/jinput-dx8.dll
+versions/Minecraf Forge 1.7.10/natives/jinput-dx8_64.dll
+versions/Minecraf Forge 1.7.10/natives/jinput-raw.dll
+versions/Minecraf Forge 1.7.10/natives/jinput-raw_64.dll
+versions/Minecraf Forge 1.7.10/natives/jinput-wintab.dll
+versions/Minecraf Forge 1.7.10/natives/libmfxsw64.dll
+versions/Minecraf Forge 1.7.10/natives/libmp3lame-ttv.dll
+versions/Minecraf Forge 1.7.10/natives/lwjgl.dll
+versions/Minecraf Forge 1.7.10/natives/lwjgl64.dll
+versions/Minecraf Forge 1.7.10/natives/swresample-ttv-0.dll
+versions/Minecraf Forge 1.7.10/natives/twitchsdk.dll
+versions/Minecraf Forge 1.7.10/Minecraf Forge 1.7.10.jar
+versions/Minecraf Forge 1.7.10/Minecraf Forge 1.7.10.json
 mods/1.7.10/CodeChickenLib-1.1.6.jar
 mods/1.7.10/[1.7.10]bspkrsCore-universal-6.15.jar
 mods/1.7.10/codechickencore-1.1.11.jar
